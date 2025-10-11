@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tsp-skolan/static/css/main.bab31d0a.css",
+    "main.js": "/tsp-skolan/static/js/main.7610787b.js",
+    "index.html": "/tsp-skolan/index.html",
+    "main.bab31d0a.css.map": "/tsp-skolan/static/css/main.bab31d0a.css.map",
+    "main.7610787b.js.map": "/tsp-skolan/static/js/main.7610787b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab31d0a.css",
+    "static/js/main.7610787b.js"
+  ]
+}
